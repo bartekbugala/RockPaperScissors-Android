@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SANDBOX</string>
+    <string name="stringButton1">Wybór</string>
+    <string name="stringButton2">Toast</string>
+    <string name="stringButton3">Znaleziony</string>
+    <string name="stringImageButton4">Znaleziony</string>
+    <string name="stringButton5">Gra w marynarza</string>
+    <string name="stringEditText1">saveInstanceState</string>
+    <string name="stringEditText2">BEZ saveInstanceState</string>
+    <string name="stringButton6">Kamień</string>
+    <string name="stringButton7">Papier</string>
+    <string name="stringButton8">Nożyce</string>
+    <string name="stringText3">Twój wynik: 0</string>
+
+</resources>
